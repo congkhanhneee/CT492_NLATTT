@@ -1,0 +1,16 @@
+users:
+  usera:
+    displayname: 'User A'
+    password: '$argon2id$v=19$m=65536,t=3,p=4$asLxKLOGiT0+rSvp/zt/Iw$wWuL1eJYm9o42Lvl3p/d8KLSgeH5GHYsKD0qKld5KC8'
+    email: 'khanhb2203723@student.ctu.edu.vn'
+    groups: []
+    totp:
+      totp_secret: 'KBQTOTDQJRWVKUDQOZEVGVTENZLHK3SV'
+
+  userb:
+    displayname: 'User B'
+    password: '$argon2id$v=19$m=65536,t=3,p=4$EI+sOV16Ra4ejCsD07d72A$/oiR5UqbKwglgQHM7HCVw10rGuvfI2yfJERIQUo4NXk'
+    email: 'namb2203730@student.ctu.edu.vn'
+    groups: []
+    totp:
+      totp_secret: 'OZCWWSLJO5XWC5ZWPFBWSWLBPJGGKVTE'
